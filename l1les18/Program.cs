@@ -43,6 +43,13 @@ namespace Level1Space
         public static string BiggerGreater(string input)
         {
             if (input == null) return "initial conditions is not correct";
+            int check = 0;
+            foreach (char j in input)
+            {
+                if (j == input[0]) check++;
+                if (check==input.Length) return "";
+            }
+
             List<string> Supremum = new List<string>();
             char[] Char_input = new char[input.Length];
             for (int i = 0; i < input.Length; i++)
@@ -53,15 +60,15 @@ namespace Level1Space
             RecPermutation(Char_input, input.Length, input, Supremum);
 
             if (Supremum.Count > 0) return Supremum[Supremum.Count - 1];
-            else return null;
+            else return "";
         }
         //static void Main(string[] args)
         //{
-        //     string input = null;
+        //    string input ="d,br";
         //    string rezult = BiggerGreater(input);
 
         //    Console.WriteLine(input + "  = исходная");
-        //    Console.WriteLine(rezult + "  = искомая");
+        //    Console.WriteLine(rezult + "  = искомая"); 
         //    ///
         //}
     }
