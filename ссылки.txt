@@ -1,0 +1,12 @@
+https://ru.m.wikibooks.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%9D%D0%B0%D1%80%D0%B0%D0%B9%D0%B0%D0%BD%D1%8B
+https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D0%9D%D0%B0%D1%80%D0%B0%D0%B9%D0%B0%D0%BD%D1%8B
+https://ru.m.wikibooks.org/wiki/Реализации_алгоритмов/Алгоритм_Нарайаны
+https://ru.wikipedia.org/wiki/Алгоритм_Нарайаны
+https://habr.com/ru/post/275331/
+https://prog-cpp.ru/permutation/
+https://blog.foolsoft.ru/c-generaciya-unikalnyx-perestanovok-dliny-n-iz-elementov-massiva/
+
+рекурсия
+https://vscode.ru/prog-lessons/shifr-perestanovki.html
+http://flash2048.com/post/Permutations
+http://mech.math.msu.su/~shvetz/54/inf/perl-problems/chPermutations_sIdeas.xhtml
